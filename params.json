@@ -1,0 +1,1 @@
+{"note":"Don't delete this file! It's used internally to help with page regeneration.","name":"Policyserver","tagline":"xmlsocket:// a flash policy file server written with tornado","google":"","body":"## Requirements:\r\n\r\n- tornado\r\n\r\n## Usage:\r\n\t\r\n```shell\r\npython PolicyServer.py\r\n```\r\n"}
